@@ -17,7 +17,7 @@ export function HeroSection() {
           transition={{ duration: 1, delay: 0.5 }}
           className="text-background rotate-90 whitespace-nowrap"
         >
-          <span className="text-xs">پاییز / زمستان ۱۴۰۵</span>
+          <span className="text-xs">تابستان ۱۴۰۵</span>
         </motion.div>
       </div>
 
@@ -26,7 +26,7 @@ export function HeroSection() {
         {/* Background image */}
         <div className="absolute inset-0">
           <Image
-            src="/voof-hero-banner.jpg"
+            src="/voof-hero-section-final.webp"
             alt="بنر ووف"
             fill
             priority
