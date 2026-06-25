@@ -45,9 +45,9 @@ export function HeroSection() {
             className="max-w-2xl"
           >
             <h1 className="font-serif text-4xl md:text-5xl lg:text-7xl text-background leading-[1.3] mb-6 text-balance">
-              ووف
+              
               <br />
-         
+         ووف
             </h1>
             <p className="text-background/80 text-base lg:text-lg mb-10 max-w-md leading-relaxed">
             برای بازگشت شادی!
