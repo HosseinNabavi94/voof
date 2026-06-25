@@ -47,10 +47,10 @@ export function HeroSection() {
             <h1 className="font-serif text-4xl md:text-5xl lg:text-7xl text-background leading-[1.3] mb-6 text-balance">
               ووف
               <br />
-              برای بازگشت شادی!
+         
             </h1>
             <p className="text-background/80 text-base lg:text-lg mb-10 max-w-md leading-relaxed">
-              تلفیق هنر و صنعت برای زنده کردن زبان مادریمان.
+            برای بازگشت شادی!
             </p>
             <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }}>
               <Link href="/shop">
