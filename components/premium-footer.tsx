@@ -127,7 +127,7 @@ export function PremiumFooter() {
         <div className="pt-8 border-t border-background/20 flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="flex items-center gap-8">
             <Link href="/" className="font-serif text-lg">
-              مزون
+              ووف
             </Link>
             <div className="flex items-center gap-4">
               <a
@@ -167,7 +167,7 @@ export function PremiumFooter() {
             >
               شرایط استفاده از خدمات
             </Link>
-            <span>© ۱۴۰۴ مزون. تمامی حقوق محفوظ است.</span>
+            <span>© ۱۴۰۴ ووف. تمامی حقوق محفوظ است.</span>
           </div>
         </div>
       </div>
