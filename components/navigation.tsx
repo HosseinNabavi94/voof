@@ -118,7 +118,7 @@ export function Navigation() {
               href="/"
               className="absolute left-1/2 -translate-x-1/2 font-serif text-xl lg:text-2xl text-foreground"
             >
-              مزون
+              ووف
             </Link>
 
             {/* Right icons */}
