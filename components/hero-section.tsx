@@ -58,7 +58,7 @@ export function HeroSection() {
                   size="lg"
                   className="bg-background text-foreground hover:bg-background/90 px-10 py-6 text-sm group"
                 >
-                  کشف مجموعه
+                  فروشگاه
                   <ArrowLeft className="mr-3 h-4 w-4 transition-transform group-hover:-translate-x-1" />
                 </Button>
               </Link>
