@@ -26,8 +26,8 @@ export function HeroSection() {
         {/* Background image */}
         <div className="absolute inset-0">
           <Image
-            src="/luxury-minimalist-fashion-model-in-elegant-dark-cl.jpg"
-            alt="مدل مد شیک در لباس تیره"
+            src="/voof-hero-banner.jpg"
+            alt="بنر ووف"
             fill
             priority
             sizes="(max-width: 1024px) 100vw, 78vw"
