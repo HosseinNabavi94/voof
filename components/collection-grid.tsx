@@ -67,9 +67,9 @@ export function CollectionGrid() {
           transition={{ duration: 0.6 }}
           className="text-center mb-16 lg:mb-24"
         >
-          <h2 className="font-serif text-3xl lg:text-5xl mb-4">منتخب گزیده</h2>
+          <h2 className="font-serif text-3xl lg:text-5xl mb-4">انتخاب محصول</h2>
           <p className="text-muted-foreground max-w-md mx-auto">
-            هر قطعه روایتگر داستانی از صنعتگری دقیق است
+             ووف عطر مازندران را در خاطرت زنده می‌کند
           </p>
         </motion.div>
 
@@ -109,7 +109,7 @@ export function CollectionGrid() {
             href="/shop"
             className="inline-flex items-center text-sm border-b border-foreground pb-1 hover:border-transparent transition-colors duration-300"
           >
-            مشاهده کل مجموعه
+            مشاهده همه‌ محصولات
           </Link>
         </motion.div>
       </div>
